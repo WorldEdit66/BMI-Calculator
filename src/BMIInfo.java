@@ -6,6 +6,7 @@ public class BMIInfo {
         this.lowerBound = lowerBound;
         this.upperBound = upperBound;
         this.message = message;
+        System.out.println("EYUYBWAR WASD");
     }
 
     public String getMessage() {
